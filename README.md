@@ -1,4 +1,4 @@
-# S-S-Keylogger
+# S&S-Keylogger
 Smart and Stealthy keylogger, that almost guarantee credentials with little to none un-needed characters and important screenshots
 
 The script was tested on EDR's and didn't raise any flag. 
