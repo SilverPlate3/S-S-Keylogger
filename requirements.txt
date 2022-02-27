@@ -1,0 +1,4 @@
+psutil==5.9.0
+PyAutoGUI==0.9.52
+pynput==1.7.6
+pywin32==303
